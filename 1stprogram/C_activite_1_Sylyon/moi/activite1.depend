@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1455718253 source:c:\users\drouotba\documents\github\c\1stprogram\c_activite_1_sylyon\moi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1407858742 source:c:\users\drouotba\documents\github\c\1stprogram\c_activite_1_sylyon\correction\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

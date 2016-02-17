@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1455718226 source:c:\users\drouotba\documents\github\c\1stprogram\activite1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
