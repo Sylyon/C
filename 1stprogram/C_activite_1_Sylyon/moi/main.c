@@ -33,7 +33,7 @@ int main()
     srand(time(NULL));
 
     const int MIN=1;
-    int myNomber, nombreMystere, replay, contTours;
+    int myNomber=0, nombreMystere=0, replay=2, contTours=0;
     char rep[] = "non";
 
     while(replay)

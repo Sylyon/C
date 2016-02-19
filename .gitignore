@@ -13,6 +13,12 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.exe
+
+#C program
+*.layout
+*.depend
+*.o
 
 # Windows shortcuts
 *.lnk
