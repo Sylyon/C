@@ -3,7 +3,8 @@
 
 int main(int argc, char *argv[])
 {
-    FILE* fichier = NULL;
+    printf("%d",sizeof(int));
+    /*FILE* fichier = NULL;
 
     fichier = fopen("test.txt", "w");
 
@@ -15,7 +16,7 @@ int main(int argc, char *argv[])
     else
     {
         printf("erreur à l'ouverture du fichier");
-    }
+    }*/
 
     return 0;
 }

@@ -10,9 +10,47 @@ void charScan(char *str, int sizeOfStr){
 
 void intScan(int *val){
     /* On crée un char de taille la taille maximal du plus grand des int : INT_MAX = */
-    char valChar[sizeof INT_MAX];
-    charScan(valChar,sizeof valChar);
-    sscanf(valChar, "%d", val);
+    char* valChar = NULL;
+    int sizeValChar = sizeof(char)*numberOfDigits((double)INT_MAX)+1;
+    valChar = malloc(sizeValChar); // On alloue de la mémoire pour le tableau
+    if (valChar == NULL) // On vérifie si l'allocation a marché ou non
+    {
+        exit(0); // On arrête tout
+    }
+    else{
+        charScan(valChar,sizeValChar);
+        sscanf(valChar, "%d", val);
+        free(valChar);
+    }
+}
+
+
+
+void doubleScan(double *val){
+    /* On crée un char de taille la taille maximal du plus grand des int : INT_MAX = */
+    char* valChar = NULL;
+    int sizeValChar = sizeof(char)*numberOfDigits((double)DBL_MAX)+2;
+    valChar = malloc(31); // On alloue de la mémoire pour le tableau
+    if (valChar == NULL) // On vérifie si l'allocation a marché ou non
+    {
+        exit(0); // On arrête tout
+    }
+    else{
+        charScan(valChar,sizeValChar);
+        sscanf(valChar, "%lf", val);
+        free(valChar);
+    }
+
+}
+
+int numberOfDigits(double val){
+    int rep = 1;
+    while (val>=10)
+    {
+        val = val/10.0;
+        rep=rep+1;
+    }
+    return rep;
 }
 
 

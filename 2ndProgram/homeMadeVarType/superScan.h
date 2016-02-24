@@ -4,7 +4,7 @@
     #include <stdio.h>
     #include <string.h>
     #include <limits.h>
-
+    #include <float.h>
 
     /** Capture du chaine de carractère de maniére securisé
      *
