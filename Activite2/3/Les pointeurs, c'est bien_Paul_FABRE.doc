@@ -1,0 +1,80 @@
+{\rtf1\ansi\ansicpg1252\deff0\uc1
+{\fonttbl
+{\f0\fnil\fcharset0\fprq0\fttruetype Times New Roman;}
+{\f1\fnil\fcharset0\fprq0\fttruetype Liberation Sans;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Courier New;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green255\blue255;}
+{\stylesheet
+{\s6\fi-431\li720\sbasedon28\snext28 Contents 1;}
+{\s7\fi-431\li1440\sbasedon28\snext28 Contents 2;}
+{\s1\fi-431\li720 Arrowhead List;}
+{\s27\fi-431\li720\sbasedon28 Lower Roman List;}
+{\s29\tx431\sbasedon20\snext28 Numbered Heading 1;}
+{\s30\tx431\sbasedon21\snext28 Numbered Heading 2;}
+{\s12\fi-431\li720 Diamond List;}
+{\s9\fi-431\li2880\sbasedon28\snext28 Contents 4;}
+{\s8\fi-431\li2160\sbasedon28\snext28 Contents 3;}
+{\s31\tx431\sbasedon22\snext28 Numbered Heading 3;}
+{\s32\fi-431\li720 Numbered List;}
+{\s15\sbasedon28 Endnote Text;}
+{\*\cs14\fs20\super Endnote Reference;}
+{\s4\fi-431\li720 Bullet List;}
+{\s5\tx1584\sbasedon29\snext28 Chapter Heading;}
+{\s35\fi-431\li720 Square List;}
+{\s11\fi-431\li720 Dashed List;}
+{\s22\sb440\sa60\f1\fs24\b\sbasedon28\snext28 Heading 3;}
+{\s37\fi-431\li720 Tick List;}
+{\s24\fi-431\li720 Heart List;}
+{\s40\fi-431\li720\sbasedon32 Upper Roman List;}
+{\s39\fi-431\li720\sbasedon32 Upper Case List;}
+{\s16\fi-288\li288\fs20\sbasedon28 Footnote;}
+{\s19\fi-431\li720 Hand List;}
+{\s18\fs20\sbasedon28 Footnote Text;}
+{\s20\sb440\sa60\f1\fs34\b\sbasedon28\snext28 Heading 1;}
+{\s21\sb440\sa60\f1\fs28\b\sbasedon28\snext28 Heading 2;}
+{\s10\qc\sb240\sa120\f1\fs32\b\sbasedon28\snext28 Contents Header;}
+{\s23\sb440\sa60\f1\fs24\b\sbasedon28\snext28 Heading 4;}
+{\s28\f0\fs24 Normal;}
+{\s26\fi-431\li720\sbasedon32 Lower Case List;}
+{\s2\li1440\ri1440\sa120\sbasedon28 Block Text;}
+{\s33\f2\sbasedon28 Plain Text;}
+{\s34\tx1584\sbasedon29\snext28 Section Heading;}
+{\s25\fi-431\li720 Implies List;}
+{\s3\fi-431\li720 Box List;}
+{\s36\fi-431\li720 Star List;}
+{\*\cs17\fs20\super Footnote Reference;}
+{\s38\fi-431\li720 Triangle List;}
+{\s13\fi-288\li288\sbasedon28 Endnote;}}
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\*\rdf}{\info\uc1{\author Paul Fabre}}\deftab720\viewkind1\paperw11905\paperh16837\margl1440\margr1440\widowctrl
+\sectd\sbknone\colsx360\margtsxn1060\pgncont\ltrsect
+\pard\plain\ltrpar\qc\s28\itap0{\s28\f0\fs36\b\lang1036{\*\listtag0}\abinodiroverride\ltrch Les pointeurs, c\uc1\u8217\'92est bien !}{\s28\f0\fs36\b\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\ul\lang1036{\*\listtag0}\abinodiroverride\ltrch 1- Qu\uc1\u8217\'92est ce qu\uc1\u8217\'92un pointeur ?}{\s28\f0\fs24\ul\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\ul\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\abinodiroverride\ltrch \tab }{\s28\f0\fs24\b\lang1036{\*\listtag0}D\'e9finition : Un pointeur est une variable qui pointe sur l\uc1\u8217\'92adresse d\uc1\u8217\'92une autre variable.}{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\abinodiroverride\ltrch Ex : }{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\abinodiroverride\ltrch \tab --> Soit Var une variable dont la valeur est 100.}{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\abinodiroverride\ltrch Var est stock\'e9e dans la m\'e9moire de l\uc1\u8217\'92ordinateur \'e0 l\uc1\u8217\'92emplacement adresse_Var. Ainsi si on lit la m\'e9moire de l\uc1\u8217\'92ordinateur on trouvera \'e0 l\uc1\u8217\'92emplacement adresse_Var la valeur 100 de notre variable.}{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\abinodiroverride\ltrch \tab --> Soit Pointeur_Var la variable qui pointe sur l\uc1\u8217\'92adresse de Var.}{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\abinodiroverride\ltrch Pointeur_Var est stock\'e9e dans la m\'e9moire de l\uc1\u8217\'92ordinateur \'e0 l\uc1\u8217\'92emplacement adresse_Pointeur_Var. Si on lit la m\'e9moire de l\uc1\u8217\'92ordinateur on trouvera \'e0 l\uc1\u8217\'92emplacement adresse_Pointeur_Var la valeur adresse_Var. Pointeur_Var est donc le pointeur de la variable Var.}{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\ul\lang1036{\*\listtag0}\abinodiroverride\ltrch 2- Pourquoi utiliser un pointeur ?}{\s28\f0\fs24\ul\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\ul\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\abinodiroverride\ltrch \tab }{\s28\f0\fs24\ul\lang1036{\*\listtag0}Rappel :}{\s28\f0\fs24\lang1036{\*\listtag0} Les variables que l\uc1\u8217\'92on instancie \'e0 l\uc1\u8217\'92int\'e9rieur d\uc1\u8217\'92une fonction n\uc1\u8217\'92appartiennent qu\uc1\u8217\'92\'e0 cette fonction. On peut donc consulter leur valeur dans une fonction tierce mais pas la modifier.}{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\abinodiroverride\ltrch Imaginons que l\uc1\u8217\'92on cr\'e9e un jeu du pendu. Dans notre fonction principale, on va d\'e9finir le mot \'e0 trouver dans la variable mot_myst. Bien s\'fbr on ne pourra pas afficher ce mot directement \'e0 l\uc1\u8217\'92\'e9cran (sinon le jeu n\uc1\u8217\'92a aucun int\'e9r\'eat). On aura donc besoin d\uc1\u8217\'92une variable interm\'e9diaire qui fera l\uc1\u8217\'92interface entre les propositions du joueur et le mot \'e0 deviner. On peut imaginer que cette variable (que l\uc1\u8217\'92on nommera mot_affich) prendra la forme suivante : une suite d\uc1\u8217\'92\'e9toiles qui au fur et \'e0 mesure de l\uc1\u8217\'92avancement du jeu seront remplac\'e9es par les lettres devin\'e9es par le joueur.}{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\abinodiroverride\ltrch R\'e9sumons :}{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\abinodiroverride\ltrch \tab i. Fonction principale (fct_p) : D\'e9finit mot_myst et le stocke \'e0 l\uc1\u8217\'92adresse ad_mot_myst}{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\abinodiroverride\ltrch \tab ii. Fonction affichage (fct_a) : D\'e9finit mot_affich en fonction de mot_myst (m\'eame nombre de lettre) et le stocke \'e0 l\uc1\u8217\'92adresse ad_mot_affich}{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\abinodiroverride\ltrch \tab iii. Fonction_interface (fct_i) :  V\'e9rifie si les lettres propos\'e9es par le joueur appartiennent au mot_myst et si besoin alt\'e8re mot_affich en rempla\'e7ant les \'e9toiles qui le compose par les lettres devin\'e9es.}{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\abinodiroverride\ltrch a) Fct_a a besoin de consulter la valeur de mot_myst. On cr\'e9era donc une variable mot_myst_bis dans Fct_a \'e0 l\uc1\u8217\'92adresse ad_mot_myst_bis en copiant mot_myst.}{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\abinodiroverride\ltrch b) Fct_i }{\s28\f0\fs24\lang1036{\*\listtag0}a besoin de consulter la valeur de mot_myst. On cr\'e9era donc une variable mot_myst_ter dans Fct_a \'e0 l\uc1\u8217\'92adresse ad_mot_myst_ter en copiant mot_myst.}{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\abinodiroverride\ltrch c) Fct_i a besoin de modifier la valeur de mot_affich. On va donc informer Fct_i de l\uc1\u8217\'92adresse ad_mot_affich pour que la fonction puisse y modifier directement la valeur (ex : \'e0 l\uc1\u8217\'92adresse ad_mot_affich, Fct_i, modifie la valeur ***** par P*NDU). Pour informer Fct_i de l\uc1\u8217\'92adresse on va cr\'e9er une variable dont la valeur sera ad_mot_affich. C\uc1\u8217\'92est \'e0 dire le pointeur de mot_affich.}{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1036{\*\listtag0}\abinodiroverride\ltrch  }{\s28\f0\fs24\lang1036{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\b\lang1036{\*\listtag0}\abinodiroverride\ltrch  Les pointeurs permettent donc \'e0 des fonctions de modifier des variables cr\'e9\'e9es au pr\'e9alable dans une fonction diff\'e9rente.}{\s28\f0\fs24\b\lang1036{\*\listtag0}\par}}
